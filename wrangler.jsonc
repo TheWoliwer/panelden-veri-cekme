@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "panelden-veri-cekme",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "panelden-veri-cekme",
+			"database_id": "74a1a174-9d95-4a55-8998-7beba4d987b9"
+		}
+	]
+}
